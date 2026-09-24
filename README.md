@@ -1,6 +1,5 @@
 # Parallels Desktop Activator
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/g0thyo/parallels-activator/total)
 
 One-command activation bypass for Parallels Desktop 26.4.x on Apple Silicon. Patches the license gates in `prl_disp_service` + `prl_vm_app`, deploys a Pro license valid until 2099, restarts the dispatcher, and re-registers your VMs. Run once, done.
 
