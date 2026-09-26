@@ -5,8 +5,8 @@ One-command activation bypass for Parallels Desktop 26.4.x on Apple Silicon. Pat
 
 ## Usage
 
-1. Install Parallels Desktop from parallels.com, sign in, start a trial.
-2. Double-click `runme.command` — or run `sudo python3 parallels_activator.py`.
+1. Install Parallels Desktop from parallels.com, sign in /create a new account, start a trial. then
+2. Double-click `runme.command` — or run `sudo python3 parallels_activator.py`. 
 
 That's it. Open Parallels Desktop and start your VMs.
 
